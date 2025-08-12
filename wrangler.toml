@@ -6,6 +6,6 @@ compatibility_date = "2024-08-12"
 # Add any environment variables here if needed
 
 # Optional: Custom domain setup
-# [[routes]]
-# pattern = "your-domain.com/*"
-# zone_name = "your-domain.com"
+[[routes]]
+pattern = "clean.djtaxes.win/*"
+zone_name = "djtaxes.win"
