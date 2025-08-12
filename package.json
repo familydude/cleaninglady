@@ -1,0 +1,17 @@
+{
+  "name": "cleaning-schedule-worker",
+  "version": "1.0.0",
+  "description": "Daily cleaning schedule manager with CalDAV export",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "build": "echo 'No build step needed for this worker'"
+  },
+  "keywords": ["cloudflare", "worker", "cleaning", "schedule", "caldav"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

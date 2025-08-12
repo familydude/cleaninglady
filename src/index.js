@@ -328,7 +328,7 @@ function getHTML() {
             React.createElement('div', { className: "mt-6 bg-blue-50 rounded-lg p-4" },
               React.createElement('h3', { className: "font-semibold text-blue-800 mb-2" }, "💡 Quick Tips"),
               React.createElement('ul', { className: "text-sm text-blue-700 space-y-1" },
-                React.createElement('li', null, "• Click the \"Download Calendar\" button to add these tasks to your calendar app"),
+                React.createElement('li', null, "• Click the \\"Download Calendar\\" button to add these tasks to your calendar app"),
                 React.createElement('li', null, "• Focus on high-priority daily tasks first"),
                 React.createElement('li', null, "• Daily tasks take about 40-45 minutes total"),
                 React.createElement('li', null, "• Weekly tasks are spread out to keep each day manageable")
